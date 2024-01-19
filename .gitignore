@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore .env files
+*.env
+
+# Ignore node_modules in the root
+node_modules/
+
+# Ignore node_modules in api
+api/node_modules/
+
+# Ignore node_modules in client
+client/node_modules/
+
+# Ignore uploads folder within api
+api/uploads/
